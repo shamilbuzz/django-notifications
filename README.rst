@@ -1,6 +1,6 @@
 ``django-notifications`` Documentation
 =======================================
-
+(Reason for this repo is that parent repo ``django-notifications`` has not released their latest abstract model version)
 
 |build-status| |coveralls|
 
