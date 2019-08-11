@@ -18,13 +18,13 @@ with open('notifications/__init__.py', 'rb') as f:
 
 
 setup(
-    name='django-notifications-hq',
+    name='django-notifications-latest',
     version=version,
     description='GitHub notifications alike app for Django.',
     long_description=open('README.rst').read(),
     author='django-notifications team',
     author_email='yang@yangyubo.com',
-    url='http://github.com/django-notifications/django-notifications',
+    url='https://github.com/shamilbuzz/django-notifications',
     install_requires=[
         'django>=1.7',
         'django-model-utils>=2.0.3',
